@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/naman/naman.github.io.git
+	branch = main
