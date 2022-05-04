@@ -11,7 +11,7 @@ role: PhD Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Wisconsin-Madison
-    url: https://www.wisc.edu/
+    url: https://cs.wisc.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My primary research interests lie in building secure & private systems which include trusted computing, usability and IoT, especially in healthcare. I am currently exploring various problems in Adverserial Machine Learning. I also care about reclaiming digital privacy and anonymity from the hands of our corporate overlords.
@@ -39,7 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:firstname.lastname@pm.me'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/NamanBoopta
@@ -73,8 +73,8 @@ I am a graduate student at the University of Wisconsin-Madison working with <a t
 
 Previously, I spent time at Microsoft Research as a Research Fellow closely collaborating with <a target="_blank" href="https://www.microsoft.com/en-us/research/people/kapilv/">Kapil Vaswani</a> and the <a target="_blank" href="https://www.microsoft.com/en-us/research/theme/confidential-computing/">Confidential Computing Group</a>. I also collaborated with <a target="_blank" href="https://www.microsoft.com/en-us/research/people/aseemr/">Aseem Rastogi</a>, <a target="_blank" href="https://www.microsoft.com/en-us/research/people/svolos/">Stavros Volos</a> and <a target="_blank" href="https://www.microsoft.com/en-us/research/people/apmehra/">Apurv Mehra</a>. Prior to this, I was working as a DevSecOps Engineer at <a target="_blank"  href="https://grab.com">Grab</a> to automate their security defenses and as a Site Reliability Engineer at <a target="_blank" href="https://media.net">media.net</a> to support their near-unethical advertising business. Phew.
 
+My primary research interests lie in building secure & private systems which include trusted computing, usability and IoT, especially in healthcare. I am currently exploring various problems in Adverserial Machine Learning. I also care about reclaiming digital privacy and anonymity from the hands of our corporate overlords.
 
-
-Pronunciation: Nam-an Goo-ptaa. First name rhymes with "summon".
+Pronunciation: Na-man Goo-ptaa. First name rhymes with "summon".
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.

@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
 title: Experience
 subtitle:
@@ -22,28 +22,46 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Research Assistant
+    company: University of Wisconsin-Madison
+    company_url: 'https://cs.wisc.edu/'
+    company_logo: uw-crest-web
+    location: Madison, WI
+    date_start: '2021-08-23'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * Worked on building a Software Debloating technique.
+        * Currently working in OOD and Adverserial ML space.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Research Fellow
+    company: Microsoft Research
+    company_url: 'https://www.microsoft.com/en-us/research/'
+    company_logo: Microsoft_logo
+    location: India
+    date_start: '2020-01-01'
+    date_end: '2021-06-02'
+    description: |2-
+        Worked in the Confidential Computing Group and Technology for Emerging Markets Group.
+
+  - title: DevSecOps Engineer
+    company: Grab
+    company_url: 'https://www.grab.com/'
+    company_logo: Grab_logo
+    location: India / Singapore
+    date_start: '2018-01-01'
+    date_end: '2019-01-01'
+    description: |2-
+        Worked in the security automation group.
+
+  - title: Site Reliability Engineer
+    company: media.net
+    company_url: 'https://www.media.net/'
+    # company_logo: microsoft.png
+    location: India
+    date_start: '2017-01-01'
+    date_end: '2018-01-01'
+    description: |2-
+      Worked in the SRE group.
 
 design:
   columns: '2'
