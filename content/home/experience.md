@@ -22,16 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
+  - title: PhD - Graduate Student
     company: University of Wisconsin-Madison
-    company_url: 'https://cs.wisc.edu/'
+    company_url: 'https://madsp.cs.wisc.edu/'
     company_logo: uw-crest-web
     location: Madison, WI
     date_start: '2021-08-23'
     date_end: ''
     description: |2-
-        * Worked on building a Software Debloating technique.
-        * Currently working in OOD and Adverserial ML space.
+      Collaborating with the Madison Security & Privacy Group
 
   - title: Research Fellow
     company: Microsoft Research

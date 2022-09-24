@@ -14,13 +14,12 @@ organizations:
     url: https://cs.wisc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My primary research interests lie in building secure & private systems which include trusted computing, usability and IoT, especially in healthcare. I am currently exploring various problems in Adverserial Machine Learning. I also care about reclaiming digital privacy and anonymity from the hands of our corporate overlords.
+bio: My primary research interests lie in building secure & private usable-systems especially for the at-risk population. I also care about reclaiming digital privacy and anonymity from the hands of our corporate overlords.
 
 # Interests to show in About widget
 interests:
-  - Systems Security
-  - Privacy
-  - Machine Learning Privacy
+  - Usable Privacy
+  - Systems Security 
 
 # Education to show in About widget
 education:
@@ -69,9 +68,11 @@ highlight_name: true
 
 Hello! <br/>
 
-I am a graduate student at the University of Wisconsin-Madison working with <a target="_blank" href="pages.cs.wisc.edu/~jha/"> Prof. Somesh Jha</a>. I graduated from IIIT-Delhi in 2017 with a Bachelors in Computer Science where I collaborated with <a target="_blank" href="http://vinayaknaik.info/">Prof. Vinayak Naik</a> and <a target="_blank" href="https://www.niu.edu/ceet/about/faculty-and-instructors/butail-sachit.shtml">Prof. Sachit Butail</a>.
+I am a graduate student at the University of Wisconsin-Madison collaborating with the <a target="_blank" href="https://madsp.cs.wisc.edu/"> MadS&P</a>. I graduated from IIIT-Delhi in 2017 with a Bachelors in Computer Science where I collaborated with <a target="_blank" href="http://vinayaknaik.info/">Prof. Vinayak Naik</a> and <a target="_blank" href="https://www.niu.edu/ceet/about/faculty-and-instructors/butail-sachit.shtml">Prof. Sachit Butail</a>.
 
-Previously, I spent time at Microsoft Research as a Research Fellow closely collaborating with <a target="_blank" href="https://www.microsoft.com/en-us/research/people/kapilv/">Kapil Vaswani</a> and the <a target="_blank" href="https://www.microsoft.com/en-us/research/theme/confidential-computing/">Confidential Computing Group</a>. I also collaborated with <a target="_blank" href="https://www.microsoft.com/en-us/research/people/aseemr/">Aseem Rastogi</a>, <a target="_blank" href="https://www.microsoft.com/en-us/research/people/svolos/">Stavros Volos</a> and <a target="_blank" href="https://www.microsoft.com/en-us/research/people/apmehra/">Apurv Mehra</a>. Prior to this, I was working as a DevSecOps Engineer at <a target="_blank"  href="https://grab.com">Grab</a> to automate their security defenses and as a Site Reliability Engineer at <a target="_blank" href="https://media.net">media.net</a> to support their near-unethical advertising business. Phew.
+Previously, I spent time at Microsoft Research as a Research Fellow closely collaborating with <a target="_blank" href="https://www.microsoft.com/en-us/research/people/kapilv/">Kapil Vaswani</a> and the <a target="_blank" href="https://www.microsoft.com/en-us/research/theme/confidential-computing/">Confidential Computing Group</a>. 
+<!-- I also collaborated with <a target="_blank" href="https://www.microsoft.com/en-us/research/people/aseemr/">Aseem Rastogi</a>, <a target="_blank" href="https://www.microsoft.com/en-us/research/people/svolos/">Stavros Volos</a> and <a target="_blank" href="https://www.microsoft.com/en-us/research/people/apmehra/">Apurv Mehra</a>. -->
+Prior to this, I was working as a DevSecOps Engineer at <a target="_blank"  href="https://grab.com">Grab</a> to automate their security defenses and as a Site Reliability Engineer at <a target="_blank" href="https://media.net">media.net</a> to support their near-unethical contextual advertising business. Phew. 
 
 My primary research interests lie in building secure & private systems which include trusted computing, usability and IoT, especially in healthcare. I am currently exploring various problems in Adverserial Machine Learning. I also care about reclaiming digital privacy and anonymity from the hands of our corporate overlords.
 
