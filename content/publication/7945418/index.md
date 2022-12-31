@@ -5,9 +5,9 @@ title: A firewall for Internet of Things
 subtitle: ''
 summary: ''
 authors:
-- Naman Gupta
+- Naman Gupta*
+- Srishti Sengupta*
 - Vinayak Naik
-- Srishti Sengupta
 tags: []
 categories: []
 date: '2017-01-01'

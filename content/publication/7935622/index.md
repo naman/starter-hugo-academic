@@ -5,8 +5,8 @@ title: The effect of instructional priming on postural responses to virtual crow
 subtitle: ''
 summary: ''
 authors:
-- Naman Gupta
-- Anmol Singh
+- Naman Gupta*
+- Anmol Singh*
 - Sachit Butail
 tags: []
 categories: []
