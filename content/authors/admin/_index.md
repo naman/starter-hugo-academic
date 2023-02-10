@@ -14,7 +14,7 @@ organizations:
     url: https://cs.wisc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My primary research interests lie in building secure & private usable-systems especially for the at-risk population. I also care about reclaiming digital privacy and anonymity from the hands of our corporate overlords.
+bio: My primary research interests lie in building secure & private usable-systems especially for the at-risk population. 
 
 # Interests to show in About widget
 interests:
@@ -74,8 +74,8 @@ Previously, I spent time at Microsoft Research as a Research Fellow closely coll
 <!-- I also collaborated with <a target="_blank" href="https://www.microsoft.com/en-us/research/people/aseemr/">Aseem Rastogi</a>, <a target="_blank" href="https://www.microsoft.com/en-us/research/people/svolos/">Stavros Volos</a> and <a target="_blank" href="https://www.microsoft.com/en-us/research/people/apmehra/">Apurv Mehra</a>. -->
 Prior to this, I was working as a DevSecOps Engineer at <a target="_blank"  href="https://grab.com">Grab</a> to automate their security defenses and as a Site Reliability Engineer at <a target="_blank" href="https://media.net">media.net</a> to support their near-unethical contextual advertising business. Phew. 
 
-My primary research interests lie in building secure & private systems which include trusted computing, usability and IoT, especially in healthcare. I am currently exploring various problems in Adverserial Machine Learning. I also care about reclaiming digital privacy and anonymity from the hands of our corporate overlords.
+My primary research interests lie in building secure, private and usable systems for the at-risk population. I also care about reclaiming digital privacy and anonymity from the hands of our corporate overlords.
 
-Pronunciation: Na-man Goo-ptaa. First name rhymes with "summon".
+Pronunciation: Na-man. First name rhymes with "summon".
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
