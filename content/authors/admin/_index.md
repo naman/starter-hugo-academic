@@ -14,7 +14,7 @@ organizations:
     url: https://cs.wisc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My primary research interests lie in building secure & private usable-systems especially for the at-risk population. 
+bio: My primary research interests lie in building secure & private usable-systems for the at-risk populations. 
 
 # Interests to show in About widget
 interests:
@@ -51,16 +51,18 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/namanspace/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/CV.pdf
+  - icon: mastodon
+    icon_pack: fab
+    link: https://infosec.exchange/@naman 
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+  # and uncomment the lines below.
+  - icon: cv
+    icon_pack: ai
+    link: uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'naman.gupta@pm.me'
+email: 'firstname.lastname@pm.me'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -68,13 +70,14 @@ highlight_name: true
 
 Hello! <br/>
 
-I am a graduate student at the University of Wisconsin-Madison collaborating with the <a target="_blank" href="https://madsp.cs.wisc.edu/"> MadS&P</a>. I graduated from IIIT-Delhi in 2017 with a Bachelors in Computer Science where I collaborated with <a target="_blank" href="http://vinayaknaik.info/">Prof. Vinayak Naik</a> and <a target="_blank" href="https://www.niu.edu/ceet/about/faculty-and-instructors/butail-sachit.shtml">Prof. Sachit Butail</a>.
+I am a PhD student in the Department of Computer Science at the <a target="_blank" href="https://wisc.edu/">University of Wisconsin-Madison</a> collaborating with the <a target="_blank" href="https://madsp.cs.wisc.edu/">MadS&P Security & Privacy group</a>. I am advised by <a target="_blank" href="https://pages.cs.wisc.edu/~chatterjee/">Prof. Rahul Chatterjee</a>. My primary research interests lie in the intersection of systems security, privacy and sociology & psychology. Specifically I build secure, private and usable systems for the at-risk populations like the survivors of Intimate Partner Violence, non-western populations, incarcerated and victims of Sex Traficking. I care about reclaiming digital privacy and anonymity from the hands of our corporate overlords.
 
-Previously, I spent time at Microsoft Research as a Research Fellow closely collaborating with <a target="_blank" href="https://www.microsoft.com/en-us/research/people/kapilv/">Kapil Vaswani</a> and the <a target="_blank" href="https://www.microsoft.com/en-us/research/theme/confidential-computing/">Confidential Computing Group</a>. 
-<!-- I also collaborated with <a target="_blank" href="https://www.microsoft.com/en-us/research/people/aseemr/">Aseem Rastogi</a>, <a target="_blank" href="https://www.microsoft.com/en-us/research/people/svolos/">Stavros Volos</a> and <a target="_blank" href="https://www.microsoft.com/en-us/research/people/apmehra/">Apurv Mehra</a>. -->
-Prior to this, I was working as a DevSecOps Engineer at <a target="_blank"  href="https://grab.com">Grab</a> to automate their security defenses and as a Site Reliability Engineer at <a target="_blank" href="https://media.net">media.net</a> to support their near-unethical contextual advertising business. Phew. 
+Previously, I spent time at Microsoft Research as a Research Fellow closely collaborating with <a target="_blank" href="https://www.microsoft.com/en-us/research/people/kapilv/">Kapil Vaswani</a> and the <a target="_blank" href="https://www.microsoft.com/en-us/research/theme/confidential-computing/">Confidential Computing Group</a> where I worked on implementing a <a target="_blank" href="https://www.usenix.org/conference/usenixsecurity21/presentation/tao"> formally verified boot protocol</a> and hardware-backed Trusted Execution Environments (TEEs). 
 
-My primary research interests lie in building secure, private and usable systems for the at-risk population. I also care about reclaiming digital privacy and anonymity from the hands of our corporate overlords.
+I graduated from IIIT-Delhi in 2017 with a Bachelors in Computer Science where I collaborated with <a target="_blank" href="http://vinayaknaik.info/">Prof. Vinayak Naik</a> and <a target="_blank" href="https://www.niu.edu/ceet/about/faculty-and-instructors/butail-sachit.shtml">Prof. Sachit Butail</a>.
+
+<!-- 
+Prior to this, I was working as a DevSecOps Engineer at <a target="_blank"  href="https://grab.com">Grab</a> to automate their security defenses and as a Site Reliability Engineer at <a target="_blank" href="https://media.net">media.net</a> to support their near-unethical contextual advertising business. Phew.  -->
 
 Pronunciation: Na-man. First name rhymes with "summon".
 
