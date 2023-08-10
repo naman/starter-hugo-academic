@@ -16,8 +16,10 @@ main:
   - name: Publications
     url: '#publications'
     weight: 20
-  - name: Experience
-    url: '#experience'
+  # - name: Experience
+    # url: '#experience'
+  - name: News
+    url: '#section-1'
     weight: 30
   - name: CV
     url: 'uploads/CV.pdf'
