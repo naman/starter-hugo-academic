@@ -18,15 +18,15 @@ main:
     weight: 20
   # - name: Experience
     # url: '#experience'
-  - name: News
-    url: '#section-1'
-    weight: 30
+  # - name: News
+  #   url: '#section-1'
+  #   weight: 30
   - name: CV
     url: 'uploads/CV.pdf'
     weight: 40
-  - name: Talks
-    url: '#talks'
-    weight: 50
+  # - name: Talks
+  #   url: '#talks'
+  #   weight: 50
   # - name: Contact
   #   url: '#contact'
   #   weight: 60

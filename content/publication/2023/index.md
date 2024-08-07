@@ -25,6 +25,9 @@ image:
   focal_point: ''
   preview_only: false
 
+url_slides: '/uploads/usec-ppt.pdf'
+url_pdf: '/uploads/usec.pdf'
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -35,7 +38,7 @@ publishDate: '2022-12-31T22:46:42.441128Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Workshop on Usable Security and Privacy (USEC) 2023*'
+publication: '*Network and Distributed System Security (NDSS) Workshop on Usable Security and Privacy (USEC) 2023*'
 links:
 - name: URL
   url: https://www.usablesecurity.net/USEC/usec23

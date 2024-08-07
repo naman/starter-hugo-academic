@@ -3,13 +3,13 @@ name = "My Theme"
 
 [light]
   # Primary
-  primary = "#94AF9F"
+  primary = "#594376"
 
   # Menu
-  menu_primary = "#DBE4C6"
-  menu_text = "#34495e"
-  menu_text_active = "#94AF9F"
-  menu_title = "#94AF9F"
+  menu_primary = "#765a9d"
+  menu_text = "#0f0b14"
+  menu_text_active = "#594376"
+  menu_title = "#594376"
 
   # Home sections
   home_section_odd = "rgb(255, 255, 255)"
@@ -17,7 +17,7 @@ name = "My Theme"
 
 [dark]
   # Primary
-  primary = "#94AF9F"
+  primary = "#594376"
 
-  link = "#94AF9F"
-  link_hover = "#94AF9F"
+  link = "#594376"
+  link_hover = "#594376"

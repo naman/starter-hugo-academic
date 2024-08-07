@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: '[REDACTED] automating program splitting formalization'
+title: 'slash: A Technique for Static Configuration-Logic Identification'
 subtitle: ''
 summary: ''
 authors:
@@ -36,8 +36,8 @@ publishDate: '2023-04-16T16:23:13.938086Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*45th International Conference on Software Engineering (ICSE) 2023*'
+publication: ''
 links:
 - name: URL
-  url: ''
+  url: 'https://arxiv.org/abs/2310.06758'
 ---

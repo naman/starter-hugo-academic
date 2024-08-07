@@ -14,7 +14,7 @@ organizations:
     url: https://cs.wisc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My primary research interests lie in building secure & private usable-systems for the at-risk populations. 
+bio: My primary research interests lie in analyzing secure & private usable-systems for the at-risk populations. 
 
 # Interests to show in About widget
 interests:
@@ -62,37 +62,75 @@ social:
     link: uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'firstname.lastname@pm.me'
+email: 'n@cs.wisc.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hello! I am a Computer Science PhD student at the <a target="_blank" href="https://wisc.edu/">University of Wisconsin-Madison</a> collaborating with the <a target="_blank" href="https://madsp.cs.wisc.edu/">MadS&P Security & Privacy</a> and <a target="_blank" href="https://gws.wisc.edu/staff/walsh-kate/">Preventing Interpersonal Violence and Overcoming Trauma (PIVOT)</a> lab. I am advised by <a target="_blank" href="https://pages.cs.wisc.edu/~chatterjee/">Prof. Rahul Chatterjee</a> and closely collaborate with <a target="_blank" href="https://gws.wisc.edu/staff/walsh-kate/">Prof. Kate Walsh</a>.
+Hello! I am Naman (he/him), a Computer Science PhD student at the <a target="_blank" href="https://wisc.edu/">University of Wisconsin-Madison</a> collaborating with the <a target="_blank" href="https://madsp.cs.wisc.edu/">MadS&P Security & Privacy</a> and <a target="_blank" href="https://crgw.gws.wisc.edu/sexual-violence-research-initiative/">Sexual Violence Research Initiative (SVRI)</a>. I am advised by <a target="_blank" href="https://pages.cs.wisc.edu/~chatterjee/">Prof. Rahul Chatterjee</a> and closely collaborate with <a target="_blank" href="https://gws.wisc.edu/staff/walsh-kate/">Prof. Kate Walsh</a>.
 
-My primary research interests lie at the intersection of computer security, privacy, sociology and psychology from a feminist and trauma-informed perspective. Specifically, I work on critiquing and designing safe and usable technological interventions for the at-risk populations like the survivors of Intimate Partner Violence and Sexual Violence. Further, I care about reclaiming agency, privacy and anonymity from the hands of our corporate overlords.
+<!-- in <a target="_blank" href="https://pivotlab.psych.wisc.edu/">Preventing Interpersonal Violence and Overcoming Trauma (PIVOT)</a> lab. -->
 
-Previously, I was a Research Fellow at Microsoft Research, advised by <a target="_blank" href="https://www.microsoft.com/en-us/research/people/kapilv/">Kapil Vaswani</a> and <a target="_blank" href="https://twitter.com/apurvmehra?lang=en">Apurv Mehra</a> where I closely collaborated with the <a target="_blank" href="https://www.microsoft.com/en-us/research/theme/confidential-computing/">Confidential Computing</a> and <a target="_blank" href="https://www.microsoft.com/en-us/research/theme/technology-and-empowerment/publications/">Technology for Empowerment / Emerging Markets (TEM)</a> group. I worked on implementing a <a target="_blank" href="https://www.usenix.org/conference/usenixsecurity21/presentation/tao"> formally verified boot protocol</a>, hardware-backed Trusted Execution Environments (TEEs) and developing an offline streaming platform for marginazlied low-income populations in remote Indian villages. 
+I work on the intersection of digital safety and sociology through a critical, feminist, trauma-informed, and decolonial lens. Specifically, I analyze the barriers faced by the historically and socio-culturally marginalized communities when they interface with technology. I care about reclaiming agency, privacy and anonymity from the hands of technology corporate overlords. Further, I coordinate <a target="_blank" href="https://techclinic.cs.wisc.edu/">Madison Tech Clinic</a> with Sophie and Rahul to support survivors of violence with their technical concerns.
 
-I graduated from IIIT-Delhi in 2017 with a Bachelors in Computer Science where I collaborated with <a target="_blank" href="http://vinayaknaik.info/">Prof. Vinayak Naik</a> and <a target="_blank" href="https://www.niu.edu/ceet/about/faculty-and-instructors/butail-sachit.shtml">Prof. Sachit Butail</a>.
+Prior to PhD, I was a Research Fellow at Microsoft Research (MSR), advised by <a target="_blank" href="https://www.microsoft.com/en-us/research/people/kapilv/">Kapil Vaswani</a> (<a target="_blank" href="https://www.microsoft.com/en-us/research/theme/confidential-computing/">Confidential Computing</a> group) and <a target="_blank" href="https://twitter.com/apurvmehra?lang=en">Apurv Mehra</a> (<a target="_blank" href="https://www.microsoft.com/en-us/research/theme/technology-and-empowerment/publications/">Technology for Empowerment</a> or Emerging Markets (TEM)) group. 
+At MSR, I worked on a <a target="_blank" href="https://www.usenix.org/conference/usenixsecurity21/presentation/tao">formally verified boot protocol</a>, a hardware-backed Trusted Execution Environment (TEE) and an <a target="_blank" href="https://www.microsoft.com/en-us/research/project/blendnet/">offline streaming platform</a> for low-income and people with a reduced tech literacy in rural India.
+
+I graduated from IIIT-Delhi with a Bachelors in Computer Science where I collaborated with <a target="_blank" href="http://vinayaknaik.info/">Prof. Vinayak Naik</a> and <a target="_blank" href="https://www.niu.edu/ceet/about/faculty-and-instructors/butail-sachit.shtml">Prof. Sachit Butail</a>.
 
 <!-- 
 Prior to this, I was working as a DevSecOps Engineer at <a target="_blank"  href="https://grab.com">Grab</a> to automate their security defenses and as a Site Reliability Engineer at <a target="_blank" href="https://media.net">media.net</a> to support their near-unethical contextual advertising business. Phew.  -->
-
-Pronunciation: Na-man. First name rhymes with "summon".
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
-
-</br>
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV.{{< /staticref >}} -->
 
 **News:**
-- **June 2023**: Teaching Assistant for CS639: Capstone Projects.
-- **June 2023**: Teaching Assistant for <a target="_blank" href="https://pages.cs.wisc.edu/~yw/CS540S23.html">CS540: Introduction to Artificial Intelligence</a>.
-- **April 2023**: Runners-up talk at UW-Madison CS Research Symposium 2023. 
-- **March 2023**: Awarded Student Support Travel Grant to attend NDSS 2023. I presented our paper at USEC 2023 and co-organized *Queer in Security and Privacy* session at NDSS (PM me to know more!).
-- **December 2022**: Short paper accepted in USEC 2023.
-- **August 2022**: Paper submitted to ICSE 2022.
-- **August 2021**: Starting PhD in Computer Science.
-- **January 2020**: Started Research Fellowship at MSR.
-- **January 2017**: Paper accepted in IEEE VR Workshop on Virtual Humans and Crowds in Immersive Environments (VHCIE).
-- **January 2017**: Poster accepted in COMSNETS.  
+- **Aug'24**
+  - Presenting <a target="_blank" href="#">poster</a> at SOUPS'24 and <a target="_blank" href="publication/usenix-24/">paper</a> at USENIX Security'24!
+  - Awarded student support grant for USENIX Security'24!
+- **May'24** 
+  - <a target="_blank" href="publication/usenix-24/">Paper</a> accepted at USENIX'24! &#127882;
+  - Presenting poster at <a target="_blank" href="publication/chilbw-2024/">CHI'24</a>. See you there!
+  - Passed PhD Qualifying exam! &#127882;
+- **Apr'24**
+  - Presented poster at <a target="_blank" href="https://staterelations.wisc.edu/uw-madison-day-at-the-capitol/">UW-Madison’s Day at WI State Capitol!</a> 
+  - Presented work to <a target="_blank" href="https://www.doj.state.wi.us/missing-and-murdered-indigenous-women-task-force">WI DOJ MMIW Taskforce</a>.
+- **Feb'24**
+  - <a target="_blank" href="publication/chilbw-2024/">Paper</a> accepted at CHI'24 (Late Breaking Work)! &#127882;
+  - <a target="_blank" href="publication/plsc-2024/">Paper</a> accepted at Privacy Law Scholars Conference'24 workshop! &#127882;
+- **Apr'23**: Runners-up talk at UW-Madison CS Research Symposium'23. &#127882;
+- **Mar'23**: Awarded a travel grant to attend NDSS'23. Organized *Queer in Security *and* Privacy* discussion with <a target="_blank" href="https://levanhieu.com/">Hieu</a>.
+- **Dec'22**: <a target="_blank" href="publication/2023/">Paper</a> accepted in NDSS'23 (Workshop on Usable Security)! &#127882;
+- **Aug'21**: Started PhD in Computer Science at UW-Madison.
+- **Jan'21**: <a target="_blank" href="publication/272306/">Paper</a> accepted at USENIX'21! &#127882;
+- **Jan'20**: Started Research Fellowship at MSR.
+- **May'17**: Graduated from IIIT-Delhi.
+- **Jan'17**
+  - Paper accepted in IEEE VR'17! &#127882;
+  - Poster accepted in COMSNETS'17! &#127882;
+
+**Service:**
+- Associate Chair (Program Committee) -- CSCW'25.
+- External Reviewer -- EuroUSEC'24, CHI LBW'24, CSCW'24.
+- Artefact Evaluation -- NDSS'25.
+- Poster Reviewer -- IEEE S\&P'24 (Oakland), SOUPS'24.
+- Organizer -- Queer in Security & Privacy event at NDSS'23.
+
+**Teaching:**
+- **Aug'23 and Jan'24**: Teaching Assistant for CS639: Capstone Projects (UW-Madison).
+- **Jun'23**: Teaching Assistant for <a target="_blank" href="https://pages.cs.wisc.edu/~yw/CS540S23.html">CS540: Artificial Intelligence</a> (UW-Madison).
+- **Jan'16**: Teaching Assistant for CS546:Mobile Computing (IIIT-Delhi & NPTEL)</a>.
+- **Jan'16**: Instructor for Data Structures & Algorithms and Systems Programming</a> (IIIT-Delhi).
+
+**Mentoring:**
+
+UW-Madison
+- HCI Reading Group at UW-Madison -- https://bit.ly/uwmadison-hcc-meetup
+- Community Organizer for <a target="_blank" href="https://discord.gg/Bzf7Kz6RQ5">UW Madison Grad Student Discord</a> and <a target="_blank" href="https://join.slack.com/t/unofficialwisccs/shared_invite/zt-2h0r4eb1w-s_a33Hglu~0TRY9xLrXliw">CS Department Slack</a>. Join us! 
+- International Students -- Kexin Zhang,Pooja Yadav, Daniel Mu, Mohammad Musa, Deep Patel
+
+IIIT-Delhi
+- Co-founder for Project Mentorship Program for 200+ freshman students.
+- Administrator, Byld, a programming club at IIIT-Delhi.
+- Mentor, Rails Girls Summer of Code 2017.
+- Organizing Team, 1st Blockhain Summit in India
+- Judge, Google’s Code to Learn Contest 2016
