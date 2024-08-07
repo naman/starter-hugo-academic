@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Naman Gupta # Website name
-baseURL: 'https://naman.github.io/' # Website URL
+baseURL: "https://naman.github.io/" # Website URL
 
 ############################
 ## LANGUAGE
@@ -24,9 +24,9 @@ module:
   #   - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
   #   - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
   imports:
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
 ############################
 ## ADVANCED
 ############################
@@ -39,10 +39,10 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  event: '/talk/:slug/'
-  tags: '/tag/:slug/'
-  categories: '/category/:slug/'
-  publication_types: '/publication-type/:slug/'
+  event: "/talk/:slug/"
+  tags: "/tag/:slug/"
+  categories: "/category/:slug/"
+  publication_types: "/publication-type/:slug/"
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
@@ -70,5 +70,9 @@ related:
       weight: 70
 security:
   _merge: deep
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
 sitemap:
   _merge: deep

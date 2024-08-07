@@ -14,12 +14,12 @@ organizations:
     url: https://cs.wisc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My primary research interests lie in analyzing secure & private usable-systems for the at-risk populations. 
+bio: My primary research interests lie in analyzing secure & private usable-systems for the at-risk populations.
 
 # Interests to show in About widget
 interests:
   - Usable Privacy and Security
-  - Marginalized Communities 
+  - Marginalized Communities
 
 # Education to show in About widget
 education:
@@ -53,7 +53,7 @@ social:
     link: https://www.linkedin.com/in/namanspace/
   - icon: mastodon
     icon_pack: fab
-    link: https://hci.social/@naman 
+    link: https://hci.social/@naman
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
   # and uncomment the lines below.
@@ -68,18 +68,14 @@ email: 'n@cs.wisc.edu'
 highlight_name: true
 ---
 
-Hello! I am Naman (he/him), a Computer Science PhD student at the <a target="_blank" href="https://wisc.edu/">University of Wisconsin-Madison</a> collaborating with the <a target="_blank" href="https://madsp.cs.wisc.edu/">MadS&P Security & Privacy</a> and <a target="_blank" href="https://crgw.gws.wisc.edu/sexual-violence-research-initiative/">Sexual Violence Research Initiative (SVRI)</a>. I am advised by <a target="_blank" href="https://pages.cs.wisc.edu/~chatterjee/">Prof. Rahul Chatterjee</a> and closely collaborate with <a target="_blank" href="https://gws.wisc.edu/staff/walsh-kate/">Prof. Kate Walsh</a>.
+Hello! I am Naman (he/him), a Computer Science PhD student at the <a target="_blank" href="https://wisc.edu/">University of Wisconsin-Madison</a> in the <a target="_blank" href="https://madsp.cs.wisc.edu/">MadS&P Security & Privacy</a> and <a target="_blank" href="https://crgw.gws.wisc.edu/sexual-violence-research-initiative/">Sexual Violence Research Initiative (SVRI)</a> groups. With advise from <a target="_blank" href="https://pages.cs.wisc.edu/~chatterjee/">Prof. Rahul Chatterjee</a>, I critically examine digital safety through inter-disciplinary lenses in sociology such as feminism, rurality, and decoloniality. Specifically, I analyze the barriers faced by the marginalized communities facing gender-based violence when they interface with technology, and design interventions to support them. Further, I coordinate the <a target="_blank" href="https://techclinic.cs.wisc.edu/">Madison Tech Clinic</a> to support survivors of IPV with their technical concerns.
 
-<!-- in <a target="_blank" href="https://pivotlab.psych.wisc.edu/">Preventing Interpersonal Violence and Overcoming Trauma (PIVOT)</a> lab. -->
-
-I work on the intersection of digital safety and sociology through a critical, feminist, trauma-informed, and decolonial lens. Specifically, I analyze the barriers faced by the historically and socio-culturally marginalized communities when they interface with technology. I care about reclaiming agency, privacy and anonymity from the hands of technology corporate overlords. Further, I coordinate <a target="_blank" href="https://techclinic.cs.wisc.edu/">Madison Tech Clinic</a> with Sophie and Rahul to support survivors of violence with their technical concerns.
-
-Prior to PhD, I was a Research Fellow at Microsoft Research (MSR), advised by <a target="_blank" href="https://www.microsoft.com/en-us/research/people/kapilv/">Kapil Vaswani</a> (<a target="_blank" href="https://www.microsoft.com/en-us/research/theme/confidential-computing/">Confidential Computing</a> group) and <a target="_blank" href="https://twitter.com/apurvmehra?lang=en">Apurv Mehra</a> (<a target="_blank" href="https://www.microsoft.com/en-us/research/theme/technology-and-empowerment/publications/">Technology for Empowerment</a> or Emerging Markets (TEM)) group. 
+Prior to PhD, I was a Research Fellow at Microsoft Research (MSR), advised by <a target="_blank" href="https://www.microsoft.com/en-us/research/people/kapilv/">Kapil Vaswani</a> (<a target="_blank" href="https://www.microsoft.com/en-us/research/theme/confidential-computing/">Confidential Computing</a> group) and <a target="_blank" href="https://twitter.com/apurvmehra?lang=en">Apurv Mehra</a> (<a target="_blank" href="https://www.microsoft.com/en-us/research/theme/technology-and-empowerment/publications/">Technology for Empowerment</a> or Emerging Markets (TEM)) groups.
 At MSR, I worked on a <a target="_blank" href="https://www.usenix.org/conference/usenixsecurity21/presentation/tao">formally verified boot protocol</a>, a hardware-backed Trusted Execution Environment (TEE) and an <a target="_blank" href="https://www.microsoft.com/en-us/research/project/blendnet/">offline streaming platform</a> for low-income and people with a reduced tech literacy in rural India.
 
-I graduated from IIIT-Delhi with a Bachelors in Computer Science where I collaborated with <a target="_blank" href="http://vinayaknaik.info/">Prof. Vinayak Naik</a> and <a target="_blank" href="https://www.niu.edu/ceet/about/faculty-and-instructors/butail-sachit.shtml">Prof. Sachit Butail</a>.
+I graduated from IIIT-Delhi with a Bachelors in Computer Science where I was advised by <a target="_blank" href="http://vinayaknaik.info/">Prof. Vinayak Naik</a> and <a target="_blank" href="https://www.niu.edu/ceet/about/faculty-and-instructors/butail-sachit.shtml">Prof. Sachit Butail</a>.
 
-<!-- 
+<!--
 Prior to this, I was working as a DevSecOps Engineer at <a target="_blank"  href="https://grab.com">Grab</a> to automate their security defenses and as a Site Reliability Engineer at <a target="_blank" href="https://media.net">media.net</a> to support their near-unethical contextual advertising business. Phew.  -->
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV.{{< /staticref >}} -->
 
@@ -87,12 +83,12 @@ Prior to this, I was working as a DevSecOps Engineer at <a target="_blank"  href
 - **Aug'24**
   - Presenting <a target="_blank" href="#">poster</a> at SOUPS'24 and <a target="_blank" href="publication/usenix-24/">paper</a> at USENIX Security'24!
   - Awarded student support grant for USENIX Security'24!
-- **May'24** 
+- **May'24**
   - <a target="_blank" href="publication/usenix-24/">Paper</a> accepted at USENIX'24! &#127882;
   - Presenting poster at <a target="_blank" href="publication/chilbw-2024/">CHI'24</a>. See you there!
   - Passed PhD Qualifying exam! &#127882;
 - **Apr'24**
-  - Presented poster at <a target="_blank" href="https://staterelations.wisc.edu/uw-madison-day-at-the-capitol/">UW-Madison’s Day at WI State Capitol!</a> 
+  - Presented poster at <a target="_blank" href="https://staterelations.wisc.edu/uw-madison-day-at-the-capitol/">UW-Madison’s Day at WI State Capitol!</a>
   - Presented work to <a target="_blank" href="https://www.doj.state.wi.us/missing-and-murdered-indigenous-women-task-force">WI DOJ MMIW Taskforce</a>.
 - **Feb'24**
   - <a target="_blank" href="publication/chilbw-2024/">Paper</a> accepted at CHI'24 (Late Breaking Work)! &#127882;
@@ -125,7 +121,7 @@ Prior to this, I was working as a DevSecOps Engineer at <a target="_blank"  href
 
 UW-Madison
 - HCI Reading Group at UW-Madison -- https://bit.ly/uwmadison-hcc-meetup
-- Community Organizer for <a target="_blank" href="https://discord.gg/Bzf7Kz6RQ5">UW Madison Grad Student Discord</a> and <a target="_blank" href="https://join.slack.com/t/unofficialwisccs/shared_invite/zt-2h0r4eb1w-s_a33Hglu~0TRY9xLrXliw">CS Department Slack</a>. Join us! 
+- Community Organizer for <a target="_blank" href="https://discord.gg/Bzf7Kz6RQ5">UW Madison Grad Student Discord</a> and <a target="_blank" href="https://join.slack.com/t/unofficialwisccs/shared_invite/zt-2h0r4eb1w-s_a33Hglu~0TRY9xLrXliw">CS Department Slack</a>. Join us!
 - International Students -- Kexin Zhang,Pooja Yadav, Daniel Mu, Mohammad Musa, Deep Patel
 
 IIIT-Delhi
